@@ -99,4 +99,9 @@ The **Carbon Footprint Tracker** is a simple yet powerful tool for understanding
 
 ---
 
+## Credits
+This project was created by Gabriele Meucci.
+
+---
+
 **Happy coding, and remember: Every byte counts! 🌱**
