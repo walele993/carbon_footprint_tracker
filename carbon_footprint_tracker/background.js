@@ -1,5 +1,5 @@
-﻿// Carbon intensity factor (grams of CO2 per KB)
-const carbonIntensity = 0.5;
+// Carbon intensity factor (grams of CO2 per KB)
+const carbonIntensity = 0.5; 
 
 // Variabile per il totale della sessione
 let sessionFootprint = 0;
